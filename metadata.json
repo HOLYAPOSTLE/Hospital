@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Management System",
+  "description": "A comprehensive Hospital Management System (HMS) featuring role-based access control, patient walk-in to walk-out journey, billing with insurance, and a dynamic codebase explorer to view and download the PHP+MySQL code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
